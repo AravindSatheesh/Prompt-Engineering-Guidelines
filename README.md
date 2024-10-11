@@ -8,3 +8,6 @@ The Deeplearning Course materials use OpenAI's "3.5 Turbo" model, but we use "Ll
 
 We can save our API Key in "api_key.txt" file within Setup Files. I have not saved it here for security reasons. Here we have used Together AI API Key as it has free credits for initial use. For playing around, this is sufficient. Refer -> https://api.together.xyz/
 
+Refer [Prompt Generation - Best Practices](https://github.com/AravindSatheesh/Prompt-Engineering-Guidelines/blob/master/Prompt%20Generation%20-%20Best%20Practices.ipynb) file for the entire consolidated guidelines. The reference files are added [here](https://github.com/AravindSatheesh/Prompt-Engineering-Guidelines/tree/master/Reference%20Notebooks).
+
+
